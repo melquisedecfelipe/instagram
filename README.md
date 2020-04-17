@@ -1,49 +1,55 @@
-# Mobile First: Instagram
-  
-## Objetivo:
-Desenvolver uma versão **mobile first** do Instagram utilizando apenas **HTML5** e **CSS3**.
+<h1>Instagram</h1>
 
-> **Preview:**
-> [Instagram Codenation](https://aceleradev-react.netlify.com/aula-02/public)
+<p>
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/melquisedecfelipe/instagram.svg">
 
-## Tópicos:
-Neste desafio, você vai praticar os seus conhecimentos em: 
-- **HTML5**;
-- **CSS3**;
-- **[Metodologia BEM CSS](http://getbem.com/naming/)**.
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/melquisedecfelipe/instagram.svg">
 
-> **Observações:**
-> - As imagens estão disponíveis na pasta **assets**;
-> - As imagens de cada personagem estão dentro de sua respectiva pasta, por exemplo: **`assets/profiles/black-panther/`**;
-> - A imagem de perfil dos personagens é identificada por **`nome_do_personagem-profile.jpg`**;
-> - O site deve ser **Mobile First**;
-> - **Não utilize** frameworks CSS como Bootstrap, Foundation e afins.
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/melquisedecfelipe/instagram.svg">
 
-## Requisitos:
-* **[Node v13.8.0](https://nodejs.org/en/)** - ou superior, instalado em seu computador;
-* **[Live Server](https://www.npmjs.com/package/live-server)**.
-​  
-> O Live server é um módulo NPM que permite servir localmente páginas HTML, sem a necessidade de instalar plugins adicionais no navegador, ou em seu editor.
-> 
-> Uma vez que o **nodejs** esteja instalado em seu computador, abra o terminal e execute o seguinte comando:
-> **`npm install -g live-server`**  
-> 
-> Após a instalação, você deverá navegar até o diretório contendo seus arquivos HTML e executar o comando:
-> **`live-server ./[nome-da-pasta ou arquivo html]`**
+  <a href="https://github.com/melquisedecfelipe/instagram/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/melquisedecfelipe/instagram.svg">
+  </a>
 
+  <a href="https://github.com/melquisedecfelipe/instagram/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/melquisedecfelipe/instagram.svg">
+  </a>
 
-## Dicas:
-* Utilize as tags semânticas do HTML5 onde julgar necessário;
-* Você pode fazer o download do [Normalize CSS](https://necolas.github.io/normalize.css/) e utilizá-lo no projeto para **"normalizar/resetar"** os estilos padrão dos navegadores;
-* Inspecione os elementos do preview do [Instagram Codenation](https://aceleradev-react.netlify.com/aula-02/public/) e descubra como alguns efeitos foram executados.
-* [Guia BEM CSS](http://getbem.com/naming/)
-* [Guia Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
-* [Guia HTML5](https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf)
-* [Guia CSS3](https://www.w3c.br/pub/Materiais/PublicacoesW3C/guia-css-w3cbr.pdf)
+  <img alt="GitHub" src="https://img.shields.io/github/license/melquisedecfelipe/instagram.svg">
+</p>
 
-## Screenshots de Referência
-### Versão Mobile:
-![](https://codenation-challenges.s3-us-west-1.amazonaws.com/react-12/screenshot-aula-02-mobile.jpg)
+<p>
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
 
-### Versão Desktop:
-![](https://codenation-challenges.s3-us-west-1.amazonaws.com/react-12/screenshot-aula-02-desktop.jpg)
+## :rocket: Technologies
+
+This project was developed with the following technologies:
+
+- [Font awesome](https://fontawesome.com/)
+- [Normalize](https://necolas.github.io/normalize.css/)
+
+## :information_source: How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/melquisedecfelipe/instagram
+
+# Go into the repository
+$ cd instagram
+
+# Run frontend
+$ google-chrome index.html
+```
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/melquisedecfelipe/instagram/blob/master/LICENSE) for more information.
+
+---
+
+:wave: [Get in touch!](https://www.linkedin.com/in/melquisedecfelipe/)
